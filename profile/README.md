@@ -3,7 +3,7 @@
 Foundorator Techlabs is a global software delivery organization on a mission to empower businesses and communities with innovative, reliable, and scalable software solutions. We believe in the transformative power of technology, and we’re committed to crafting products that solve real-world problems and drive positive change. 🚀
 
 ---
-
+![banner](./../tl_banner.jpg)
 ## 🏆 Our Mission & Goals
 
 1. **Deliver World-Class Open Source Software**
