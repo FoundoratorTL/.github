@@ -51,6 +51,6 @@ Foundorator Techlabs is a global software delivery organization on a mission to 
 
 ---
 
-<p align="center">Made with ❤️ by the Foundorator Techlabs team</p>
+<p align="center">Made with ❤️ by the Foundorator Techlabs team members & collaborator</p>
 
 ---
