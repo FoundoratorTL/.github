@@ -35,7 +35,7 @@ Foundorator Techlabs is a global software delivery organization on a mission to 
 ## 📈 How to Get Involved
 
 * **Explore Our Repositories**
-  Browse and star projects under the [FoundoratorTechlabs](https://github.com/FoundoratorTechlabs) organization.
+  Browse and star projects under the [FoundoratorTechlabs](https://github.com/orgs/FoundoratorTL/repositories) organization.
 * **Submit Issues & PRs**
   Found a bug or have a feature idea? Raise an issue or submit a pull request—contributions are welcome!
 * **Join Communities**
